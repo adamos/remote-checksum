@@ -5,7 +5,8 @@ The idea behind this is that we have a directory with multiple subdirectories
 in a central server and we want to store the SHA1 checksums and file paths in
 a text file and compare this text file to the checksums in the slave servers.
 
-TO DO:
+* TO DO:
+
 1. Enable rsync pull from master server with ssh-keys to get the latest master.txt file
 2. Change ARGV[0] to any directories specified in ARGV
 3. Add email functionality when mismatched are found
