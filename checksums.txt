@@ -1,0 +1,4 @@
+8e6c9181b6da51bf23d461ff7d7310b5537273b3---/home/adam/development/github/README.md
+be8233021f2f2508f200989a4bca5196e37dcb6a---/home/adam/development/github/master.txt
+def360300c7663dcdbeea3d48a48c67be49ba293---/home/adam/development/github/checksums.txt
+bd8e7015f9a2078bce71fe868866f02dff34034e---/home/adam/development/github/sumchk-keys.rb

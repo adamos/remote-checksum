@@ -1,0 +1,4 @@
+d906d7f71e45ee329adfdee733b806ef994e126d---/home/adam/development/sumchk.rb
+05338592a8f3ecb50c34eec1b794649c52558136---/home/adam/development/sumchk-txf.rb.broken
+dc8ce8df209a8636c197f12e2610a1216891704b---/home/adam/development/sumchk-keys.rb
+d3ca0e916bb6ed550931cd737cfaf775bc124c73---/home/adam/development/sumchk-txf.rb
