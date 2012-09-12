@@ -9,7 +9,8 @@ a text file and compare this text file to the checksums in the slave servers.
 
 1. Enable rsync pull from master server with ssh-keys to get the latest master.txt file
 2. Change ARGV[0] to any directories specified in ARGV
-3. Add email functionality when mismatched are found
+3. Add email functionality when mismatches are found
+4. Automatically pull the mismatched files to sync with the master.
 
 
 I wrote this for Ruby 1.9.3
